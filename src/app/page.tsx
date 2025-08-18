@@ -85,7 +85,7 @@ const PROJECTS = [
       materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
       servicios: [
         "Riego automático",
-        "Paneles solares",
+        "Sistema Domotica",
         "Calefacción por losa",
       ],
     },
@@ -113,8 +113,8 @@ const PROJECTS = [
       lote_m2: 550,
       estado: "construido",
       rol: "Proyecto, Interiorismo",
-      materiales: ["Chapa microperforada", "Petiribí", "Microcemento"],
-      servicios: ["Acústica", "Iluminación LED DALI"],
+      materiales: ["Tarquini", "Porcelanato Madera", "Microcemento"],
+      servicios: ["Losa Radiante", "Iluminación LED", "Riego automático"],
     },
   },
   {
@@ -141,7 +141,12 @@ const PROJECTS = [
       niveles: 3,
       estado: "construccion",
       rol: "Proyecto",
-      materiales: ["Madera tratada", "Chapa galvanizada"],
+      materiales: ["Madera tratada", "Perfiles Doble T", "Tarquini"],
+      servicios: [
+        "Riego automático",
+        "Calefacción por losa",
+        "Iluminación LED",
+      ],
     },
   },
   {
@@ -168,7 +173,8 @@ const PROJECTS = [
       niveles: 2,
       estado: "construido",
       rol: "Proyecto ejecutivo",
-      servicios: ["HVAC VRV", "Iluminación circadiana", "Vegetación interior"],
+      materiales: ["Wall Panel", "Porcelanato Madera", "Tarquini"],
+      servicios: ["Losa Radiante", "Riego Automatico", "Iluminacion Led"],
     },
   },
   {
@@ -196,10 +202,10 @@ const PROJECTS = [
       niveles: 2,
       estado: "construido",
       rol: "Proyecto y Dirección",
-      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      materiales: ["Tarquini", "Porcelanato Madera", "Aberturas DVH"],
       servicios: [
         "Riego automático",
-        "Paneles solares",
+        "Iluminacion Led",
         "Calefacción por losa",
       ],
     },
@@ -227,8 +233,12 @@ const PROJECTS = [
       lote_m2: 550,
       estado: "construido",
       rol: "Proyecto, Interiorismo",
-      materiales: ["Chapa microperforada", "Petiribí", "Microcemento"],
-      servicios: ["Acústica", "Iluminación LED DALI"],
+      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      servicios: [
+        "Riego automático",
+        "Sistema Domotica",
+        "Calefacción por losa",
+      ],
     },
   },
   {
@@ -281,7 +291,12 @@ const PROJECTS = [
       niveles: 2,
       estado: "construido",
       rol: "Proyecto ejecutivo",
-      servicios: ["HVAC VRV", "Iluminación circadiana", "Vegetación interior"],
+      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      servicios: [
+        "Riego automático",
+        "Sistema Domotica",
+        "Calefacción por losa",
+      ],
     },
   },
   {
@@ -313,7 +328,7 @@ const PROJECTS = [
       materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
       servicios: [
         "Riego automático",
-        "Paneles solares",
+        "Sistema Domotica",
         "Calefacción por losa",
       ],
     },
@@ -339,8 +354,12 @@ const PROJECTS = [
       lote_m2: 550,
       estado: "construido",
       rol: "Proyecto, Interiorismo",
-      materiales: ["Chapa microperforada", "Petiribí", "Microcemento"],
-      servicios: ["Acústica", "Iluminación LED DALI"],
+      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      servicios: [
+        "Riego automático",
+        "Sistema Domotica",
+        "Calefacción por losa",
+      ],
     },
   },
   {
@@ -368,7 +387,12 @@ const PROJECTS = [
       niveles: 3,
       estado: "construida",
       rol: "Proyecto",
-      materiales: ["Madera tratada", "Chapa galvanizada"],
+      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      servicios: [
+        "Riego automático",
+        "Sistema Domotica",
+        "Calefacción por losa",
+      ],
     },
   },
   {
@@ -396,7 +420,12 @@ const PROJECTS = [
       niveles: 1,
       estado: "construido",
       rol: "Proyecto ejecutivo",
-      servicios: ["HVAC VRV", "Iluminación circadiana", "Vegetación interior"],
+      materiales: ["Piedra de Travertino", "Lapacho", "Aberturas DVH"],
+      servicios: [
+        "Riego automático",
+        "Sistema Domotica",
+        "Calefacción por losa",
+      ],
     },
   },
   {
