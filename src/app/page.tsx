@@ -98,7 +98,7 @@ const PROJECTS = [
     categories: ["residencial", "interiorismo"],
     cover: "/fotos/nordelta-fotos/CarpinchoPortada.jpeg",
     images: [
-      "/fotos/nordelta-fotos/CarpinchoL69lateral.jpeg",
+      "/fotos/nordelta-fotos/CarpinchoL69Lateral.jpeg",
       "/fotos/nordelta-fotos/L69puerta.jpeg",
       "/fotos/nordelta-fotos/L69cocina.jpeg",
       "/fotos/nordelta-fotos/L69pileta.jpeg",
@@ -159,11 +159,11 @@ const PROJECTS = [
     location: "Nordelta, Tigre",
     year: 2023,
     categories: ["residencial", "interiorismo"],
-    cover: "/fotos/nordelta-fotos/carpincho70/L70portada.jpeg",
+    cover: "/fotos/nordelta-fotos/CARPINCHO70/portadal70.jpeg",
     images: [
-      "/fotos/nordelta-fotos/carpincho70/L70cocina.jpeg",
-      "/fotos/nordelta-fotos/carpincho70/L70pileta.jpeg",
-      "/fotos/nordelta-fotos/carpincho70/L70atras.jpeg",
+      "/fotos/nordelta-fotos/CARPINCHO70/L70cocina.jpeg",
+      "/fotos/nordelta-fotos/CARPINCHO70/L70pileta.jpeg",
+      "/fotos/nordelta-fotos/CARPINCHO70/L70atras.jpeg",
       "/fotos/nordelta-fotos/CARPINCHO70/397e3f7e-5f72-4b4f-8c28-1b6fa1314de0.jpg",
     ],
     summary:
